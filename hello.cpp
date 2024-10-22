@@ -1,6 +1,7 @@
-#include <iostream>
+#include <stdio.h>
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    printf("Hello, World!\n");
+    printf("This is the first modification.\n");
     return 0;
 }
